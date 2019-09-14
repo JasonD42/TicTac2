@@ -1,9 +1,9 @@
-##Project Title: TicTac2
+Project Title: TicTac2
 
-###Purpose: To create a tic-tac-toe game with an unbeatable computer
+Purpose: To create a tic-tac-toe game with an unbeatable computer
 
-###Date: Finished July, 2018
+Date: Finished July, 2018
 
-###Author: Jason Drews
+Author: Jason Drews
 
-###To run: Call the main function in Core.java to play 
+To run: Call the main function in Core.java to play 
